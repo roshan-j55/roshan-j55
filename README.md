@@ -38,7 +38,7 @@ Alongside my Textile Technology studies, I am actively learning **Java, object-o
 </a>
 &nbsp;
 <a href="https://in.linkedin.com/in/roshan-j05" target="_blank">
-  <b>Jai Roshan</b>
+  <b>Roshan J</b>
 </a>
 
 ---
