@@ -1,8 +1,7 @@
 ## Hi 👋 I'm Jai Roshan
 🎓 Textile Technology Student  
 ☕ Java Learner | Software Development  
-🚀 Building projects and learning every day
-
+🚀 Building projects and learning every 🔗 **LinkedIn**: [Jai Roshan](www.linkedin.com/in/roshan-j05)
 <!--
 **roshan-j55/roshan-j55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
